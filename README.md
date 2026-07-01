@@ -17,13 +17,35 @@
   <img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_Vietnam-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
+<!-- Quick-nav bar: clickable badges that jump to sections -->
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-39C5BB?style=flat-square" /></a>
+  <a href="#️-technical-toolbox"><img src="https://img.shields.io/badge/Toolbox-4479A1?style=flat-square" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-FF694B?style=flat-square" /></a>
+  <a href="#-honors--awards"><img src="https://img.shields.io/badge/Honors-F2C811?style=flat-square" /></a>
+  <a href="#-certifications--languages"><img src="https://img.shields.io/badge/Certifications-E97627?style=flat-square" /></a>
+  <a href="#-github-analytics--contributions"><img src="https://img.shields.io/badge/GitHub_Stats-181717?style=flat-square" /></a>
+</p>
+
 ---
 
 ## 🌟 About Me
 
-I am an **Aspiring Data Analyst** and **Analytics Engineer** pursuing a double major in **E-commerce & Data Science** at the **University of Economics Ho Chi Minh City (UEH)** (expected graduation: March 2027). 
+I am an **Aspiring Data Analyst** and **Analytics Engineer** pursuing a double major in **E-commerce & Data Science** at the **University of Economics Ho Chi Minh City (UEH)** (expected graduation: March 2027).
 
 I specialize in building end-to-end analytical solutions, optimizing modern data platforms, and applying machine learning to real-world business problems. I am passionate about transforming large-scale, complex datasets into interactive dashboards and actionable insights that drive strategic business outcomes.
+
+<details>
+<summary>📌 <b>Quick facts about me</b> (click to expand)</summary>
+<br>
+
+- 🎓 Double major: E-commerce & Data Science, UEH — expected graduation **March 2027**
+- 🔭 Currently building end-to-end analytics platforms on the **Modern Data Stack**
+- 🌱 Deepening skills in **data lakehouse architecture** and **semantic search**
+- 💬 Ask me about dbt, Streamlit, RFM segmentation, or Vietnam stock market ML models
+- ⚡ Fun fact: I've won awards in both data-science research **and** hackathons
+
+</details>
 
 ---
 
@@ -64,11 +86,31 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   </tr>
 </table>
 
+<details>
+<summary>📊 <b>Skill proficiency snapshot</b> (click to expand)</summary>
+<br>
+
+| Skill Area | Proficiency |
+|---|---|
+| SQL | ████████████████████ 95% |
+| Python | ██████████████████░░ 90% |
+| dbt / Data Modeling | █████████████████░░░ 85% |
+| Tableau / Power BI | █████████████████░░░ 85% |
+| Machine Learning | ███████████████░░░░░ 75% |
+| Spark / Databricks | ██████████████░░░░░░ 70% |
+
+</details>
+
 ---
 
 ## 📂 Featured Projects
-### 📦 [Amazon E-Commerce Performance Insight Report](https://github.com/thanhgiang0607/amazon) *(Python, SQL, Quarto, Tableau, Netlify)* | [Live Report](https://taupe-kataifi-5bf9c2.netlify.app/)
+
+<details open>
+<summary><h3 style="display:inline">📦 Amazon E-Commerce Performance Insight Report</h3></summary>
+
+**[GitHub Repo](https://github.com/thanhgiang0607/amazon)** · **[Live Report](https://taupe-kataifi-5bf9c2.netlify.app/)** · *(Python, SQL, Quarto, Tableau, Netlify)*
 *Q1 2026 Analysis*
+
 * **Core Idea:** Developed an enterprise-grade performance and traffic acquisition analytics report, identifying high-leverage marketing budget optimizations to maximize **ROAS**.
 * **Key Achievements:**
   * Dissected customer behavior data and sales records to analyze **$38.9M+ in total GMV** and overall conversion funnel dynamics.
@@ -76,9 +118,14 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Designed and rendered a professional multi-section interactive data report using **Quarto** and **Tableau**, deploying the final artifact on **Netlify**.
   * Formulated actionable recommendations for conversion rate optimization (CRO) and customer loyalty programs.
 
+</details>
 
-### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607/ecom_project) *(DuckDB, dbt, Streamlit, Plotly)* | [Live Demo](https://ecomprojectgit-546sw5cdmkkqffyltmbq7u.streamlit.app/)
+<details>
+<summary><h3 style="display:inline">🛒 Olist E-Commerce Analytics Platform</h3></summary>
+
+**[GitHub Repo](https://github.com/thanhgiang0607/ecom_project)** · **[Live Demo](https://ecomprojectgit-546sw5cdmkkqffyltmbq7u.streamlit.app/)** · *(DuckDB, dbt, Streamlit, Plotly)*
 *May 2026 – Jun 2026*
+
 * **Core Idea:** Built an end-to-end **Modern Data Stack (MDS)** analytics platform processing **100,000+ transaction records**.
 * **Key Achievements:**
   * Designed scalable dimensional models and automated dbt Core transformation workflows (staging, intermediate, and mart layers).
@@ -86,24 +133,42 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Developed an interactive executive Streamlit dashboard tracking KPIs for logistics, revenue, and customer retention.
   * Embedded robust automated data quality validation and integrity checks to guarantee reliable pipeline outputs.
 
-### 🔍 [Semantic Search System using Data Lakehouse](https://github.com/thanhgiang0607/Data-Mining) *(Spark, Databricks, Delta Lake, S-BERT, FAISS)*
+</details>
+
+<details>
+<summary><h3 style="display:inline">🔍 Semantic Search System using Data Lakehouse</h3></summary>
+
+**[GitHub Repo](https://github.com/thanhgiang0607/Data-Mining)** · *(Spark, Databricks, Delta Lake, S-BERT, FAISS)*
 *Apr 2026 – May 2026*
+
 * **Core Idea:** Designed and implemented a scalable Data Lakehouse semantic product search engine.
 * **Key Achievements:**
   * Orchestrated multi-layered ETL pipelines across **Bronze, Silver, and Gold** tables on Delta Lake.
   * Generated product semantic search vector embeddings utilizing **Sentence-BERT** and cached them with **FAISS vector indexing**.
   * Optimized search relevancy, boosting **Precision@5 from 0.24 to 0.54** and **MRR from 0.37 to 0.70** relative to traditional keyword matching.
 
-### 📊 [ML-Based Sector Rotation: Vietnam Stock Market] *(Python, Machine Learning, Google Trends)*
+</details>
+
+<details>
+<summary><h3 style="display:inline">📊 ML-Based Sector Rotation: Vietnam Stock Market</h3></summary>
+
+*(Python, Machine Learning, Google Trends)*
 *Dec 2025*
+
 * **Core Idea:** Research paper evaluating macroeconomic and Google Trends signals for automated sector-level trading strategies.
 * **Key Achievements:**
   * Integrated multi-source financial and search volume datasets (2018–2025), performing comprehensive EDA and feature engineering.
   * Evaluated ML models across various market cycles and validated performance with rigorous financial backtesting.
 
+</details>
+
 ---
 
 ## 🏆 Honors & Awards
+
+<details>
+<summary><b>Click to expand full list of honors & awards 🏆</b></summary>
+<br>
 
 * 🏆 **First Prize** – BIT Genesis Research Award (Faculty Level, 2025) - *Research on last-mile delivery optimization using PLS-SEM and machine learning.*
 * 🏆 **First Prize** – COBRP Scientific Research Award (School Level, 2025) - *Machine learning-based sector rotation study using macroeconomic indicators & Google Trends.*
@@ -111,16 +176,24 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 * 💡 **Research Innovation Award** – First Movers Sprint Hackathon (2026)
 * 🏅 **Top Teams** – Denso Factory Hacks & UEH BizTech (2025)
 
+</details>
+
 ---
 
 ## 📜 Certifications & Languages
 
 * **Languages:** English (Professional Working Proficiency – IELTS available upon request)
-* **Certifications:**
-  * 🎓 DataCamp SQL Associate
-  * 🎓 DataCamp Data Analyst Associate
-  * 💻 HackerRank SQL Advanced
-  * 💻 HackerRank Problem Solving (Intermediate)
+
+<details>
+<summary><b>Click to expand certifications 🎓</b></summary>
+<br>
+
+* 🎓 DataCamp SQL Associate
+* 🎓 DataCamp Data Analyst Associate
+* 💻 HackerRank SQL Advanced
+* 💻 HackerRank Problem Solving (Intermediate)
+
+</details>
 
 ---
 
@@ -130,8 +203,19 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhgiang0607&theme=nord&hide_border=true" alt="Thanh Giang's Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhgiang0607&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhgiang0607&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhgiang0607&theme=nord&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ---
 
 <div align="center">
   <i>"Passionate about transforming raw data into actionable insights and supporting AI-powered analytics to improve product performance and business outcomes."</i>
 </div>
+
+<p align="center"><a href="#hi-there-im-nguyen-vu-thanh-giang-">⬆ Back to top</a></p>
