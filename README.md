@@ -182,7 +182,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 
 ## 📜 Certifications & Languages
 
-* **Languages:** English (Professional Working Proficiency – IELTS available upon request)
+* **Languages:** English (IELTS 7.0)
 
 <details>
 <summary><b>Click to expand certifications 🎓</b></summary>
@@ -203,10 +203,6 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhgiang0607&theme=nord&hide_border=true" alt="Thanh Giang's Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhgiang0607&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhgiang0607&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhgiang0607&theme=nord&hide_border=true" alt="Contribution Graph" />
