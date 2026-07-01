@@ -193,7 +193,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 
 ## 📜 Certifications & Languages
 
-* **Languages:** English (Professional Working Proficiency – IELTS available upon request)
+* **Languages:** English (IELTS 7.0 - Advanced Level)
 
 <details>
 <summary><b>Click to expand certifications 🎓</b></summary>
