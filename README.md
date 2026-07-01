@@ -73,9 +73,9 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Designed and rendered a professional multi-section interactive data report using **Quarto** and **Tableau**, deploying the final artifact on **Netlify**.
   * Formulated actionable recommendations for conversion rate optimization (CRO) and customer loyalty programs.
 
-### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607) *(DuckDB, dbt, Streamlit, Plotly)*
 
 ### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607/ecom_project) *(DuckDB, dbt, Streamlit, Plotly)*
+[Live Demo](https://ecomprojectgit-546sw5cdmkkqffyltmbq7u.streamlit.app/)
 *May 2026 – Jun 2026*
 * **Core Idea:** Built an end-to-end **Modern Data Stack (MDS)** analytics platform processing **100,000+ transaction records**.
 * **Key Achievements:**
@@ -92,7 +92,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Generated product semantic search vector embeddings utilizing **Sentence-BERT** and cached them with **FAISS vector indexing**.
   * Optimized search relevancy, boosting **Precision@5 from 0.24 to 0.54** and **MRR from 0.37 to 0.70** relative to traditional keyword matching.
 
-### 📊 [ML-Based Sector Rotation: Vietnam Stock Market](https://github.com/thanhgiang0607) *(Python, Machine Learning, Google Trends)*
+### 📊 [ML-Based Sector Rotation: Vietnam Stock Market] *(Python, Machine Learning, Google Trends)*
 *Dec 2025*
 * **Core Idea:** Research paper evaluating macroeconomic and Google Trends signals for automated sector-level trading strategies.
 * **Key Achievements:**
