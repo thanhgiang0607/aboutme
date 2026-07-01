@@ -74,8 +74,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Formulated actionable recommendations for conversion rate optimization (CRO) and customer loyalty programs.
 
 
-### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607/ecom_project) *(DuckDB, dbt, Streamlit, Plotly)* |
-[Live Demo](https://ecomprojectgit-546sw5cdmkkqffyltmbq7u.streamlit.app/)
+### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607/ecom_project) *(DuckDB, dbt, Streamlit, Plotly)* | [Live Demo](https://ecomprojectgit-546sw5cdmkkqffyltmbq7u.streamlit.app/)
 *May 2026 – Jun 2026*
 * **Core Idea:** Built an end-to-end **Modern Data Stack (MDS)** analytics platform processing **100,000+ transaction records**.
 * **Key Achievements:**
