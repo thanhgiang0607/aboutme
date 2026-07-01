@@ -58,6 +58,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Data Engineering & Cloud</h3>
@@ -82,6 +83,16 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/Sentence--BERT-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="S-BERT" />
       <img src="https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="FAISS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ CI/CD & DevOps</h3>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>&nbsp;</h3>
     </td>
   </tr>
 </table>
@@ -182,7 +193,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 
 ## 📜 Certifications & Languages
 
-* **Languages:** English (IELTS 7.0)
+* **Languages:** English (Professional Working Proficiency – IELTS available upon request)
 
 <details>
 <summary><b>Click to expand certifications 🎓</b></summary>
@@ -202,6 +213,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhgiang0607&theme=nord&hide_border=true" alt="Thanh Giang's Streak Stats" />
 </div>
+
 
 
 <div align="center">
