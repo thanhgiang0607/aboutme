@@ -43,14 +43,17 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
       <img src="https://img.shields.io/badge/Delta_Lake-007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Data Visualization & BI</h3>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/Quarto-F28C28?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto" />
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Machine Learning & Vector Search</h3>
