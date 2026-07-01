@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nguyen-vu-thanh-giang">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C5%A9-thanh-giang-279082321/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:giangnguyen.31231026898@st.ueh.edu.vn">
@@ -64,8 +64,18 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 ---
 
 ## 📂 Featured Projects
+### 📦 [Amazon E-Commerce Performance Insight Report](https://github.com/thanhgiang0607/amazon) *(Python, SQL, Quarto, Tableau, Netlify)* | [Live Report](https://taupe-kataifi-5bf9c2.netlify.app/)
+*Q1 2026 Analysis*
+* **Core Idea:** Developed an enterprise-grade performance and traffic acquisition analytics report, identifying high-leverage marketing budget optimizations to maximize **ROAS**.
+* **Key Achievements:**
+  * Dissected customer behavior data and sales records to analyze **$38.9M+ in total GMV** and overall conversion funnel dynamics.
+  * Mapped traffic volume against conversion rates (CVR) to isolate high-value growth channels vs. cost-inefficient sources.
+  * Designed and rendered a professional multi-section interactive data report using **Quarto** and **Tableau**, deploying the final artifact on **Netlify**.
+  * Formulated actionable recommendations for conversion rate optimization (CRO) and customer loyalty programs.
 
 ### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607) *(DuckDB, dbt, Streamlit, Plotly)*
+
+### 🛒 [Olist E-Commerce Analytics Platform](https://github.com/thanhgiang0607/ecom_project) *(DuckDB, dbt, Streamlit, Plotly)*
 *May 2026 – Jun 2026*
 * **Core Idea:** Built an end-to-end **Modern Data Stack (MDS)** analytics platform processing **100,000+ transaction records**.
 * **Key Achievements:**
@@ -74,7 +84,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
   * Developed an interactive executive Streamlit dashboard tracking KPIs for logistics, revenue, and customer retention.
   * Embedded robust automated data quality validation and integrity checks to guarantee reliable pipeline outputs.
 
-### 🔍 [Semantic Search System using Data Lakehouse](https://github.com/thanhgiang0607) *(Spark, Databricks, Delta Lake, S-BERT, FAISS)*
+### 🔍 [Semantic Search System using Data Lakehouse](https://github.com/thanhgiang0607/Data-Mining) *(Spark, Databricks, Delta Lake, S-BERT, FAISS)*
 *Apr 2026 – May 2026*
 * **Core Idea:** Designed and implemented a scalable Data Lakehouse semantic product search engine.
 * **Key Achievements:**
