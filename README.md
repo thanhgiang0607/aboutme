@@ -124,16 +124,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 ## 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thanhgiang0607&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Thanh Giang's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhgiang0607&theme=nord&hide_border=true" alt="Thanh Giang's Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhgiang0607&theme=nord&hide_border=true" alt="Thanh Giang's Streak Stats" />
 </div>
 
 ---
