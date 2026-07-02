@@ -33,7 +33,7 @@
 
 I am an **Aspiring Data Analyst** and **Analytics Engineer** pursuing a double major in **E-commerce & Data Science** at the **University of Economics Ho Chi Minh City (UEH)** (expected graduation: March 2027).
 
-I specialize in building end-to-end analytical solutions, optimizing modern data platforms, and applying machine learning to real-world business problems. I am passionate about transforming large-scale, complex datasets into interactive dashboards and actionable insights that drive strategic business outcomes.
+Combining deep domain expertise in **E-commerce analytics** and **Financial Market research**, I specialize in building end-to-end analytical solutions, optimizing modern data platforms, and applying machine learning to solve complex business problems. I am passionate about transforming large-scale, complex datasets into interactive dashboards and actionable insights that drive strategic business outcomes.
 
 <details>
 <summary>📌 <b>Quick facts about me</b> (click to expand)</summary>
@@ -224,6 +224,12 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
 
 <div align="center">
   <i>"Passionate about transforming raw data into actionable insights and supporting AI-powered analytics to improve product performance and business outcomes."</i>
+</div>
+
+<p align="center"><a href="#hi-there-im-nguyen-vu-thanh-giang-">⬆ Back to top</a></p>supporting AI-powered analytics to improve product performance and business outcomes."</i>
+</div>
+
+<p align="center"><a href="#hi-there-im-nguyen-vu-thanh-giang-">⬆ Back to top</a></p>i-there-im-nguyen-vu-thanh-giang-">⬆ Back to top</a></p>anh-giang-">⬆ Back to top</a></p>iness outcomes."</i>
 </div>
 
 <p align="center"><a href="#hi-there-im-nguyen-vu-thanh-giang-">⬆ Back to top</a></p>
