@@ -64,6 +64,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
       <h3>🚀 Data Engineering & Cloud</h3>
       <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
       <img src="https://img.shields.io/badge/Delta_Lake-007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
@@ -90,6 +91,7 @@ I specialize in building end-to-end analytical solutions, optimizing modern data
       <h3>⚙️ CI/CD & DevOps</h3>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
     <td width="50%" valign="top">
       <h3>&nbsp;</h3>
